@@ -95,7 +95,7 @@ calculate_savings(usage_kwh, rate): Calculates cost savings and CO₂ reductions
 
 app.py: Streamlit front-end that gathers user inputs and displays results with charts.
 
-##Data Sources
+## Data Sources
 Utility Rates: U.S. Energy Information Administration (EIA) average residential electricity rates per state
 https://www.eia.gov/electricity/data/state/
 
